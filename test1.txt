@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 7EB1-2F0A
-
- Directory of C:\Users\sikhan\OneDrive - Nice Systems Ltd\Desktop\JavaProject1
-
-06/19/2020  12:21 PM    <DIR>          .
-06/19/2020  12:21 PM    <DIR>          ..
-06/19/2020  12:21 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  418,778,202,112 bytes free
+change 1
